@@ -15,17 +15,17 @@
 ## 🚧 Featured Projects
 
 ### 👥 [CodeCollab](https://github.com/Anish-Tripathi/CodeCollab)  
-AI-powered collaborative coding platform with real-time multi-user editing, AI code suggestions, and WebRTC-based communication. Built for pair programming, interviews, and team learning.
+AI-powered collaborative coding platform with real-time multi-user editing, AI code and resources suggestions, and WebRTC-based video and audio communication, Web sockets based real time chatting. Built for pair programming, interviews, and team learning.
 
 ---
 
 ### 🔁 [SwapStay](https://github.com/Anish-Tripathi/SwapStay)  
-Full-stack campus accommodation system for room swaps, guest house bookings, and mess insights. Features JWT auth, OTP activation, real-time chat, and role-based access control.
+Full-stack campus accommodation system for room swaps, guest house bookings, mess changes and stremlined complaint management. Features JWT auth, OTP based account activation, real-time chat, ,email based password reset and secured stripe payment gateway.
 
 ---
 
 ### 🍽️ [DineSmart](https://github.com/Anish-Tripathi/DineSmart)  
-Smart food discovery and order tracking platform. Includes advanced filters, table booking, live order tracking, secure OTP login, and Stripe payment integration.
+Smart food discovery and order tracking platform. Includes role-based access control for customer and restaurant owner, advanced filters, table booking, live order tracking and management, restaurant and menu management and real time analytics with secure role based captcha login.
 
 ---
 
