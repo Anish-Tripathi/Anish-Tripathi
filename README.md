@@ -20,27 +20,27 @@ AI-powered collaborative coding platform with real-time multi-user editing, AI c
 ---
 
 ### 🔁 [SwapStay](https://github.com/Anish-Tripathi/SwapStay)  
-Full-stack campus accommodation system for room swaps, guest house bookings, mess changes and stremlined complaint management. Features JWT auth, OTP based account activation, real-time chat, ,email based password reset and secured stripe payment gateway.
+SwapStay is a full-stack web platform tailored for campus residents, offering an all-in-one solution for room swaps, guest house bookings, and mess facility insights. Built with scalability and user experience in mind, SwapStay brings transparency and efficiency to common student housing and accommodation problems.
 
 ---
 
 ### 🍽️ [DineSmart](https://github.com/Anish-Tripathi/DineSmart)  
-Smart food discovery and order tracking platform. Includes role-based access control for customer and restaurant owner, advanced filters, table booking, live order tracking and management, restaurant and menu management and real time analytics with secure role based captcha login.
+DineSmart is a comprehensive, full-stack restaurant discovery and food ordering platform that revolutionizes how customers find restaurants and how owners manage their business. Built with the MERN stack, it features intelligent filtering, real-time order tracking, secure authentication, and role-based access control.
 
 ---
 
 ### 🧠 [LeetAssist](https://github.com/Anish-Tripathi/LeetAssist)  
-Chrome extension that enhances LeetCode solving with AI-powered problem explanations, edge case detection, debugging help, solution suggestions, and Q&A capabilities.
+LeetAssist is an AI-powered Chrome extension designed to assist with solving LeetCode problems. It explains problem statements, identifies edge cases, debugs code, answers queries, and suggests optimal solutions. Users can also explore top community solutions, generate complete answers, and receive real-time guidance while coding.
 
 ---
 
 ### ✂️ [SumUp](https://github.com/Anish-Tripathi/SumUp)  
-Browser extension that summarizes PDFs and web articles into short briefs and bullet points. Offers clean UI, summary history, and fast on-page summarization using AI.
+SumUp is an AI-powered Summarizer extension that boosts your reading experience. It lets you summarize web pages and PDFs in brief, detailed, or bullet-point formats, translate content into multiple languages, and clean up pages for distraction-free reading. You can also ask follow-up questions for deeper understanding—all within your browser
 
 ---
 
 ### 📦 [DeliverEase](https://github.com/Anish-Tripathi/DeliverEase)  
-Responsive delivery simulation app with live tracking, OpenStreetMap-based routes, multi-stop delivery support, and pricing estimates based on parcel weight, size, and priority.
+DeliverEase is a responsive web app for simulating last-mile delivery. It features live tracking, interactive routes with OpenStreetMap, flexible order booking, and automated distance and price estimation based on delivery factors like parcel weight, size, priority, and more. It also supports multi-stop deliveries, through a responsive dashboard
 
 ---
 
