@@ -12,27 +12,35 @@
 
 ---
 
-### 🚧 Featured Projects
+## 🚧 Featured Projects
 
-- 🔁 [**SwapStay**](https://github.com/Anish-Tripathi/SwapStay):  
-  Full-stack campus accommodation system for room swaps, guest house bookings, and mess insights.  
-  _Built with scalability, real-time chat, OTP auth, and role-based access._
+### 👥 [CodeCollab](https://github.com/Anish-Tripathi/CodeCollab)  
+AI-powered collaborative coding platform with real-time multi-user editing, AI code suggestions, and WebRTC-based communication. Built for pair programming, interviews, and team learning.
 
-- 🍽️ [**DineSmart**](https://github.com/Anish-Tripathi/DineSmart):  
-  Smart food discovery and order tracking platform with live filters, Stripe payment, and secure login.
+---
 
-- 💬 [**CodeClarify**](https://github.com/Anish-Tripathi/CodeClarify):  
-  Chrome extension that explains code using OpenAI’s GPT — non-intrusive, fast, and developer-friendly.
+### 🔁 [SwapStay](https://github.com/Anish-Tripathi/SwapStay)  
+Full-stack campus accommodation system for room swaps, guest house bookings, and mess insights. Features JWT auth, OTP activation, real-time chat, and role-based access control.
 
-- 📦 [**DeliverEase**](https://github.com/Anish-Tripathi/DeliverEase):  
-  Lightweight delivery tracker using geolocation, routing, and OpenStreetMap.
+---
 
-- ☁️ [**SkyCast**](https://github.com/Anish-Tripathi/SkyCast):  
-  Weather forecasting app with real-time visuals and interactive UX.
+### 🍽️ [DineSmart](https://github.com/Anish-Tripathi/DineSmart)  
+Smart food discovery and order tracking platform. Includes advanced filters, table booking, live order tracking, secure OTP login, and Stripe payment integration.
 
-- 🧮 [**Calcify**](https://github.com/Anish-Tripathi/Calcify):  
-  Intelligent calculator for basic to advanced math with smooth usability.
+---
 
+### 🧠 [LeetAssist](https://github.com/Anish-Tripathi/LeetAssist)  
+Chrome extension that enhances LeetCode solving with AI-powered problem explanations, edge case detection, debugging help, solution suggestions, and Q&A capabilities.
+
+---
+
+### ✂️ [SumUp](https://github.com/Anish-Tripathi/SumUp)  
+Browser extension that summarizes PDFs and web articles into short briefs and bullet points. Offers clean UI, summary history, and fast on-page summarization using AI.
+
+---
+
+### 📦 [DeliverEase](https://github.com/Anish-Tripathi/DeliverEase)  
+Responsive delivery simulation app with live tracking, OpenStreetMap-based routes, multi-stop delivery support, and pricing estimates based on parcel weight, size, and priority.
 ---
 
 ### 📫 Connect with Me
