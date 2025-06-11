@@ -35,13 +35,10 @@
 
 ---
 
-### 📈 GitHub Stats
-![Anish's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Anish-Tripathi&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Anish-Tripathi&layout=compact&theme=tokyonight)
-
----
-
 ### 📫 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/anish-tripathi)  
-[📬 Email me](mailto:your.email@example.com) – happy to collaborate or chat!
 
+- 🌐 Portfolio: [https://portfolio-sandy-nine-48.vercel.app](https://portfolio-sandy-nine-48.vercel.app)  
+- 🔗 LinkedIn: [https://linkedin.com/in/anish-t-223238270](https://linkedin.com/in/anish-t-223238270)  
+- ⚙️ LeetCode: [https://leetcode.com/u/AnishTripathi/](https://leetcode.com/u/AnishTripathi/)  
+- 🧑‍💻 Devfolio: [https://devfolio.co/@Anish_Tripathi](https://devfolio.co/@Anish_Tripathi)  
+- 📬 Email: tripathiarun780@gmail.com
