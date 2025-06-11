@@ -41,6 +41,7 @@ Browser extension that summarizes PDFs and web articles into short briefs and bu
 
 ### 📦 [DeliverEase](https://github.com/Anish-Tripathi/DeliverEase)  
 Responsive delivery simulation app with live tracking, OpenStreetMap-based routes, multi-stop delivery support, and pricing estimates based on parcel weight, size, and priority.
+
 ---
 
 ### 📫 Connect with Me
