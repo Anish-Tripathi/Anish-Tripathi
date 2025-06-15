@@ -30,12 +30,12 @@ DineSmart is a comprehensive, full-stack restaurant discovery and food ordering 
 ---
 
 ### 🧠 [LeetAssist](https://github.com/Anish-Tripathi/LeetAssist)  
-LeetAssist is an AI-powered Chrome extension designed to assist with solving LeetCode problems. It explains problem statements, identifies edge cases, debugs code, answers queries, and suggests optimal solutions. Users can also explore top community solutions, generate complete answers, and receive real-time guidance while coding.
+LeetAssist is your intelligent LeetCode companion that does more than just explain. It breaks down problems, walks through test cases, provides optimized code solutions, and suggests better complexities. Ask follow-up questions, get real-time feedback, and explore multiple programming languages- all from a sleek, interactive Chrome extension.
 
 ---
 
 ### ✂️ [SumUp](https://github.com/Anish-Tripathi/SumUp)  
-SumUp is an AI-powered Summarizer extension that boosts your reading experience. It lets you summarize web pages and PDFs in brief, detailed, or bullet-point formats, translate content into multiple languages, and clean up pages for distraction-free reading. You can also ask follow-up questions for deeper understanding—all within your browser
+SumUp is a smart AI-powered Chrome extension that transforms articles and PDFs into concise, detailed, or bullet-point summaries. It supports multilingual translation, distraction-free reading, summary downloads, history tracking, and follow-up questions—everything right within your browser.
 
 ---
 
