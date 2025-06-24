@@ -14,7 +14,7 @@
 
 ## Featured Projects
 
-### [CodeCollab: AI-Powered Real-Time Collaboration Platform](https://github.com/Anish-Tripathi/CodeCollab)  
+### [CodeCollab: AI-Powered Real-Time Coding Collaboration Platform](https://github.com/Anish-Tripathi/CodeCollab)  
 AI-powered collaborative coding platform with real-time multi-user editing, AI code and resources suggestions, and WebRTC-based video and audio communication, Web sockets based real time chatting. Built for pair programming, interviews, and team learning.
 
 ---
