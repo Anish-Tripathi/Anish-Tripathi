@@ -47,8 +47,9 @@ SumUp is a smart AI-powered Chrome extension that transforms articles and PDFs i
 
 ###  Connect with Me
 
--  Portfolio: [https://portfolio-sandy-nine-48.vercel.app](https://portfolio-sandy-nine-48.vercel.app)  
-- LinkedIn: [https://linkedin.com/in/anish-t-223238270](https://linkedin.com/in/anish-t-223238270)  
+-  Portfolio : [https://portfolio-sandy-nine-48.vercel.app](https://anish-tripathi.vercel.app/) 
+-  Portfolio Space : [https://portfolio-sandy-nine-48.vercel.app](https://portfolio-sandy-nine-48.vercel.app)  
+-  LinkedIn: [https://linkedin.com/in/anish-t-223238270](https://linkedin.com/in/anish-t-223238270)  
 -  LeetCode: [https://leetcode.com/u/AnishTripathi/](https://leetcode.com/u/AnishTripathi/)  
 -  Devfolio: [https://devfolio.co/@Anish_Tripathi](https://devfolio.co/@Anish_Tripathi)  
--  Email: tripathiarun780@gmail.com
+-  Email: anishtripathi720@gmail.com
